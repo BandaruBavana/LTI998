@@ -3,5 +3,10 @@ an apple a day keeps doctor away
 cat has 9 lives
 month is march
 today is wednesday
+<<<<<<< HEAD
 Bavana
 family
+=======
+>>>>>>> branch-1
+hii
+hello
